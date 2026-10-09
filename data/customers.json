@@ -1,0 +1,29 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "Rahul Sharma",
+    "age": 28,
+    "city": "Hyderabad",
+    "occupation": "Software Engineer",
+    "monthly_income": 65000,
+    "phone": "+91-9000000001"
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Priya Reddy",
+    "age": 31,
+    "city": "Bengaluru",
+    "occupation": "Product Manager",
+    "monthly_income": 85000,
+    "phone": "+91-9000000002"
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Arjun Kumar",
+    "age": 25,
+    "city": "Kurnool",
+    "occupation": "Data Analyst",
+    "monthly_income": 48000,
+    "phone": "+91-9000000003"
+  }
+]

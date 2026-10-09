@@ -1,0 +1,23 @@
+[
+  {
+    "account_id": "ACC1001",
+    "customer_id": "CUST001",
+    "type": "Savings",
+    "balance": 82450.0,
+    "status": "Active"
+  },
+  {
+    "account_id": "ACC1002",
+    "customer_id": "CUST002",
+    "type": "Savings",
+    "balance": 145800.0,
+    "status": "Active"
+  },
+  {
+    "account_id": "ACC1003",
+    "customer_id": "CUST003",
+    "type": "Savings",
+    "balance": 57320.0,
+    "status": "Active"
+  }
+]

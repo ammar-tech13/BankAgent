@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "CUST001",
+    "credit_score": 742
+  },
+  {
+    "customer_id": "CUST002",
+    "credit_score": 781
+  },
+  {
+    "customer_id": "CUST003",
+    "credit_score": 691
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "loan_id": "LOAN001",
+    "customer_id": "CUST001",
+    "loan_type": "Personal Loan",
+    "principal": 180000.0,
+    "outstanding": 92000.0,
+    "monthly_emi": 8000.0,
+    "status": "Active"
+  },
+  {
+    "loan_id": "LOAN002",
+    "customer_id": "CUST002",
+    "loan_type": "Home Loan",
+    "principal": 2500000.0,
+    "outstanding": 2100000.0,
+    "monthly_emi": 22000.0,
+    "status": "Active"
+  },
+  {
+    "loan_id": "LOAN003",
+    "customer_id": "CUST003",
+    "loan_type": "Personal Loan",
+    "principal": 100000.0,
+    "outstanding": 45000.0,
+    "monthly_emi": 4500.0,
+    "status": "Active"
+  }
+]
